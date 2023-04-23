@@ -1,6 +1,6 @@
-### Demo
+# Demo
 
-# Get started 
+### Get started 
 Download the code on your VScode.
 On terminal cd .\CS258-project\ if the file is not at this directory
 now type npm install
