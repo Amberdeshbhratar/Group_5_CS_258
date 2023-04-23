@@ -1,0 +1,198 @@
+
+.DarkTheme{
+    --bgclr:#1c1e29;
+    --formclr:#232B56;
+    --btnclr:#09fb66;
+    --fntclr:white;
+    --formfnt:rgb(246, 169, 169);
+    --inclr:white;
+}
+.LightTheme{
+    --inclr:white;
+    --formclr:gray;
+    --bgclr:#e4dfdf;
+    --btnclr:#082c74;
+    --fntclr:black;
+    --formfnt:#232B56;
+}
+body{
+    background-color: var(--bgclr);
+}
+.homePageWrapper {
+    color: #e4dfdf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:var(--formclr);
+    height: 100vh;
+    /* animation-name: welcome; */
+    /* animation-duration: 0.3s; */
+}
+
+.About{
+    color:var(--fntclr) ;
+}
+.Contact{
+    color:var(--fntclr) ;    
+}
+
+.formWrapper {
+    background: var(--formclr);
+    /* color: var(--formfnt); */
+    padding: 20px;
+    border-radius: 10px;
+    width: 600px;
+    max-width: 90%;
+    position: fixed;
+    animation-name: welcome;
+    animation-duration: 1.5s;
+    top: 30%;
+
+}
+
+@keyframes welcome {
+    0%   {top: 0;}
+    100% {top: 30%;}
+}
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+footer a {
+    color: var(--btnclr);
+}
+
+.inputGroup {
+    display: flex;
+    flex-direction: column;
+}
+
+.mainLabel {
+    color: var(--formfnt);
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.homePageLogo {
+    height: 80px;
+    margin-bottom: 30px;
+}
+
+.inputBox {
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin-bottom: 14px;
+    /* color: #232b57; */
+    background: var(--inclr);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.joinBtn,
+.leaveBtn {
+    background: var(--btnclr);
+    width: 100px;
+    margin-left: auto;
+}
+
+.joinBtn:hover,
+.leaveBtn:hover {
+    background: #368654;
+}
+
+.createInfo {
+    color:var(--fntclr) ;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.createNewBtn {
+    color: var(--btnclr);
+    text-decoration: none;
+    border-bottom: 1px solid #4aed88;
+    transition: all 0.3s ease-in-out;
+}
+
+.createNewBtn:hover,
+footer a:hover {
+    color: #368654;
+    border-color: #368654;
+}
+
+.mainWrap {
+    color: var(--formclr);
+    display: grid;
+    grid-template-columns: 230px 1fr;
+     /* 1fr; */
+}
+
+.aside {
+    background: #1c1e29;
+    padding: 16px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+.asideInner {
+    flex: 1;
+}
+
+.clientsList {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.client {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+}
+.userName {
+    margin-top: 10px;
+}
+
+.logo {
+    border-bottom: 1px solid #424242;
+    padding-bottom: 10px;
+}
+
+.logoImage {
+    height: 60px;
+}
+
+.leaveBtn {
+    width: 100%;
+    margin-top: 20px;
+}
+.CodeMirror {
+    min-height: calc(100vh - 60px);
+    font-size: 20px;
+    line-height: 1.6;
+    padding-top: 20px;
+}
+.wrapper{
+    background-color:var(--bgclr) ;
+}
+#login_logout_btn{
+    background: purple;
+    border-radius: 0%;
+    color: #fff;
+}
+.UserImage { transition: all .2s ease-in-out; }
+.UserImage:hover{ transform: scale(1.1); }
