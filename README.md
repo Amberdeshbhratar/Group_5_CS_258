@@ -19,7 +19,7 @@ Localhost server:
 2.On terminal enter the following:
 
 ```css
-cd .\CS258-project\ if the file is not at this directory
+cd .\CS258-project\ 
 ```
 
 <br></br>
@@ -29,7 +29,7 @@ cd .\CS258-project\ if the file is not at this directory
 4.create a .env file in CS258-project directory
 
 <br></br>
-5.Now add api keys in the .env file the key values respectively are:
+5.Now add api keys in the .env file the key and their values respectively are:
 
 ```css
 REACT_APP_API_URL=https://judge0-ce.p.rapidapi.com/submissions
