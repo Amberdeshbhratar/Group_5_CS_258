@@ -10,7 +10,7 @@ opting for cloud-based development tools. Online code editors are web-based appl
 
 <br></br>
 
-### Get started
+## Get started
 Localhost server:
 
 1.Download the code on your VScode.
@@ -42,7 +42,7 @@ REACT_APP_API_KEY=109415954bmsh26b76a98af55250p15fb00jsn52b7fd307716
 ```css
     npm start
 ```
-### Future works
+## Future works
 <br></br>
 1. Create save file option for the uses who logged in.
 <br></br>
@@ -52,7 +52,7 @@ REACT_APP_API_KEY=109415954bmsh26b76a98af55250p15fb00jsn52b7fd307716
 <br></br>
 4. Giving control for collaborative leader to save file. 
 
-### Refercens 
+## Refercens 
 1. https://www.overleaf.com/latex/templates/software-requirements-specification/ryktphvctsxg
 2. https://youtu.be/djMy4QsPWiI
 3. https://www.npmjs.com/package/@monaco-editor/react
