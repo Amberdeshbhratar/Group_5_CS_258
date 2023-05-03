@@ -40,3 +40,18 @@ REACT_APP_API_KEY=109415954bmsh26b76a98af55250p15fb00jsn52b7fd307716
 ```css
     npm start
 ```
+###Future works
+<br></br>
+1. Create save file option for the uses who logged in.
+<br></br>
+2. Run and compile feature during collaborative coding.
+<br></br>
+3. Adding snippets and themes
+<br></br>
+4. Giving control for collaborative leader to save file. 
+
+###Refercens 
+1. https://www.overleaf.com/latex/templates/software-requirements-specification/ryktphvctsxg
+2. https://youtu.be/djMy4QsPWiI
+3. https://www.npmjs.com/package/@monaco-editor/react
+4. https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/
