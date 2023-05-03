@@ -42,6 +42,8 @@ REACT_APP_API_KEY=109415954bmsh26b76a98af55250p15fb00jsn52b7fd307716
 ```css
     npm start
 ```
+<br></br>
+<br></br>
 ## Future works
 <br></br>
 1. Create save file option for the uses who logged in.
@@ -51,7 +53,8 @@ REACT_APP_API_KEY=109415954bmsh26b76a98af55250p15fb00jsn52b7fd307716
 3. Adding snippets and themes
 <br></br>
 4. Giving control for collaborative leader to save file. 
-
+<br></br>
+<br></br>
 ## Refercens 
 1. https://www.overleaf.com/latex/templates/software-requirements-specification/ryktphvctsxg
 2. https://youtu.be/djMy4QsPWiI
