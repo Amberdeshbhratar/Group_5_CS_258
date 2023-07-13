@@ -10,7 +10,15 @@ opting for cloud-based development tools. Online code editors are web-based appl
 
 <br></br>
 
-## Get started
+## UML Diagrams:
+https://drive.google.com/file/d/1z6OKr0RmuXhHNjRV7TMdjnlBPirEryhp/view?usp=sharing
+<br></br>
+
+## Project can be viewed on:
+https://drive.google.com/file/d/138gslaLxX4bV-Si4_zc87PTt-A1NUXUQ/view?usp=sharing
+<br></br>
+
+## Get started:
 Localhost server:
 
 1.Download the code on your VScode.
