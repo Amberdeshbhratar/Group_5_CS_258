@@ -11,11 +11,11 @@ opting for cloud-based development tools. Online code editors are web-based appl
 <br></br>
 
 ## Project can be viewed on:
-https://drive.google.com/file/d/1z6OKr0RmuXhHNjRV7TMdjnlBPirEryhp/view?usp=sharing
+https://drive.google.com/file/d/1_VwQXztgxMNCfFaetBai148ojtWNh65S/view?usp=sharing
 <br></br>
 
 ## UML Diagrams:
-https://drive.google.com/file/d/138gslaLxX4bV-Si4_zc87PTt-A1NUXUQ/view?usp=sharing
+https://drive.google.com/file/d/1yMb8gaQzhLj1xSJDi7X_XxHiJTSCR2rZ/view?usp=sharing
 <br></br>
 
 ## Get started:
